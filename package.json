@@ -1,0 +1,30 @@
+{
+  "name": "msfjs",
+  "version": "0.0.1",
+  "description": "Node library for interacting with metasploit",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "async": "~0.1.22",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SomeoneWeird/msfjs.git"
+  },
+  "keywords": [
+    "metasploit",
+    "msf",
+    "pentest",
+    "hack",
+    "exploit"
+  ],
+  "author": "SomeoneWeird",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
