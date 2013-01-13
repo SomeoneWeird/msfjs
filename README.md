@@ -11,7 +11,9 @@ Installation
 Via git:
 
 > $ git clone git@github.com:SomeoneWeird/msfjs.git
+
 > $ cd msfjs
+
 > $ npm install  
 
 Usage
