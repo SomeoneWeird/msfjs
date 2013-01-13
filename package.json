@@ -7,7 +7,7 @@
     "example": "example"
   },
   "dependencies": {
-    "async": "~0.1.22",
+    "async": "~0.1.22"
   },
   "devDependencies": {},
   "scripts": {
