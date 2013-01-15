@@ -10,7 +10,7 @@ Installation
 
 Via git:
 
-> $ git clone git@github.com:SomeoneWeird/msfjs.git
+> $ git clone https://github.com/SomeoneWeird/msfjs.git
 
 > $ cd msfjs
 
