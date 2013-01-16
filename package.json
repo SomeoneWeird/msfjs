@@ -1,6 +1,6 @@
 {
   "name": "msfjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node library for interacting with metasploit",
   "main": "lib/index.js",
   "directories": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:SomeoneWeird/msfjs.git"
+    "url": "https://github.com/SomeoneWeird/msfjs.git"
   },
   "keywords": [
     "metasploit",
