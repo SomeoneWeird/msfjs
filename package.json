@@ -1,6 +1,6 @@
 {
   "name": "msfjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node library for interacting with metasploit",
   "main": "lib/index.js",
   "directories": {
