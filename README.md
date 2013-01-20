@@ -14,7 +14,7 @@ Via git:
 
 > $ cd msfjs
 
-> $ npm install  
+> $ npm install
 
 Usage
 -----
